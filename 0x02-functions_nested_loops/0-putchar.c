@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - writes the character c to stdout
- * Return: On success 0 
+ * main - check the code
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
