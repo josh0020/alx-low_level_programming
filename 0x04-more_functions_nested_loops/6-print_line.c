@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* _putchar - tests function tha prints line
-* @ a input
+* print_line - prints line
+* @a: input
 * Return: void
 */
 

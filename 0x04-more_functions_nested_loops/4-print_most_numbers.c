@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* _putchar - tests function tha prints the numbers from 0 to 9 execpt 2 and 4
-* @a input
+* print_number -  prints the numbers from 0 to 9 execpt 2 and 4
+* @a: input
 * Return: void
 */
 

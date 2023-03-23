@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* _putchar - tests function tha prints 10 times the numbers from 0 to 9 folowed by \n
-* @a input
-* @b input 
+* print_number - prints 10 times the numbers from 0 to 9 
+* @a: input
+* @b: input 
 * Return: void
 */
 

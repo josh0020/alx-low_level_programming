@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* _putchar - tests function tha prints diagonal
-* @a input
-* @b input
+* print_diagonal - prints diagonal
+* @a: input
+* @b: input
 * Return: void
 */
 
