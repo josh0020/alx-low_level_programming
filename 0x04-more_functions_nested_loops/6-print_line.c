@@ -2,7 +2,7 @@
 
 /**
 * print_line - prints line
-* @n:input
+* @n: input
 * Return: void
 */
 

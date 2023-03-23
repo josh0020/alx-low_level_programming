@@ -2,8 +2,7 @@
 
 /**
 * print_number -prints 10 times the numbers from 0 to 9
-* @a:
-* @b:
+* 10 times
 * Return: void
 */
 

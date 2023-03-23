@@ -2,7 +2,7 @@
 
 /**
 * print_diagonal - prints diagonal
-* @n:input
+* @n: input
 * Return: void
 */
 
@@ -14,9 +14,11 @@ void print_diagonal(int n);
 	{
 		for (b = 0; b < a; b++)
 		{
-			_putcchar(32);
+			_putchar(32);
 		}
 		_putchar(92);
+		if  (i < (n - 1))
+			_putchar('\n');
 	}
 	_putchar('\n');
 }
